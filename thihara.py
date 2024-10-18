@@ -1,0 +1,2 @@
+x="thihara"
+print(x)
